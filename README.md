@@ -1,6 +1,6 @@
 ###
 <h1 align="center">Hi 👋, I'm Jimmy Paz!</h1>
-<h3 align="center">A passionate Software developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 - 🔭 I’m currently working on **REST Services with Spring**
 
