@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **tech stuff**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Everything you want, if I can help you, I will do it.**
 
-- 📫 How to reach me **Scrolling**
+- 📫 How to reach me **jimmyalejandroreyes@gmail.com**
 
-- ⚡ Fun fact **I spend a lot of time reading books and documentation related to technology.**
+- ⚡ Fun fact **I spend a lot of time reading books and documentation related to technology and English.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
