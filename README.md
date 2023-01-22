@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **FullStack Development**
 
-- 📫 How to reach me **jimmyalejandroreyes@gmail.com**
+- 📫 How to reach me **heyprogrammer.89@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jimmy-paz/](https://www.linkedin.com/in/jimmy-paz/)
 
