@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **FullStack Development**
 
-- 📫 How to reach me **heyprogrammer.89@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/jimmy-paz/](https://www.linkedin.com/in/jimmy-paz/)
 
 - ⚡ Fun fact **I spend time taking into consideration how other developers code in order to improve myself.**
